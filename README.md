@@ -1,7 +1,7 @@
 # Medidor-Consumo-Electrico-Bifasico
 Autor: avbazurt@espol.edu.ec
 
-# Open Source Licenses
+## Licensing information
 ![github-big](https://github.com/Medidor-Consumo-Bifasico/MCB_PCB/blob/main/Picture/open_source_licenses.jpeg?raw=true)
 
 ## Requirements:
