@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "IoT_Trifasico-altium-import")(type "KiCad")(uri "${KIPRJMOD}/IoT_Trifasico-altium-import.kicad_sym")(options "")(descr ""))
+)
