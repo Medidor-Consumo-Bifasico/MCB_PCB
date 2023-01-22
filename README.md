@@ -13,3 +13,9 @@ Autor: avbazurt@espol.edu.ec
 
 ## Modo Bifasico:
 ![github-small](https://github.com/TheLast20/Medidor-Consumo-Electrico-Bifasico/blob/main/Picture/BIFASICO.png?raw=true)
+
+## Modo Trifasico:
+![github-small](IoT_Trifasico)
+
+## Mod de Hardware para usar con 3v3:
+![github-small](https://github.com/vortigont/pzem-edl/blob/main/docs/hwmod.md)
